@@ -1,4 +1,7 @@
 # mpu6050
+Requisites:
+
+*  You must enable Arduino IDE to run ESP32 codes. Link for more information: https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
 
 Here's the diagram:
 
